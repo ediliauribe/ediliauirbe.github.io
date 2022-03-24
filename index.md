@@ -4,5 +4,5 @@ Description: My Personal website
 ---
 This is content provided in my CTBA course.
 
--  [Time Series Descomposition](/TimeSeries/index.md)
+- [Time Series Descomposition](/TimeSeries/index.md)
 
