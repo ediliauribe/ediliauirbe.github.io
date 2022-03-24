@@ -1,6 +1,6 @@
 ---
-title: Time Series Decomposition
-description: CTBA course content
+title: Edilia Uribe's Website 
+description: Personal website of my Data Analytics projects 
 ---
 This is content from my CTBA Course
 
