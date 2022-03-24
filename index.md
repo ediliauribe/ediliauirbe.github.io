@@ -1,5 +1,6 @@
 ---
-layout: default
+Title: Edilia Uribe's Website
+Description: My Personal website
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
