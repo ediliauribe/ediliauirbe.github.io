@@ -4,6 +4,6 @@ description: CTBA course content
 ---
 This is content from my CTBA Course
 
-![My Picture](/Pictures/SavedPictures/pic.jpg)
+![My Picture](/Pictures/pic.jpg)
 
 -  [Time Series Decomposition](/timeseries/index.md)
