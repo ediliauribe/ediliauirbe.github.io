@@ -1,5 +1,5 @@
 ---
-title: TimeSeries Decomposition
+title: Time Series Decomposition
 description: Course Content
 ---
 This is Time Series Decomposition I use in my CTBA course
